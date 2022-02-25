@@ -16,7 +16,7 @@ The pretrained models were obtained from: https://github.com/rcmalli/keras-vggfa
  
  The performance of the aformentioned models can be found in the following tables:
  
- | Model  | Accuracy | True Hit Rate Score |
+ | Model  | Hit Rate Score | Corrected Hit Rate Score |
 | ------------- | ------------- | ------------- |
 | VGG16  | 0.445  | 0.579  |
 | ResNet50  | 0.433  | 0.607  |
